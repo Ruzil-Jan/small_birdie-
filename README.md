@@ -21,6 +21,7 @@
 ## Итак,ниже инструкция ,как загрузить и запустить ()
 
 #### 1) Клонируйте по ссылке:
-####  ```` git clone https://github.com/Ruzil-Jan/small_birdie-.git  ````
+````console 
+git clone https://github.com/Ruzil-Jan/small_birdie-.git  ````
 
  
