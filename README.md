@@ -22,6 +22,9 @@
 
 #### 1) Клонируйте по ссылке:
 ````console 
-git clone https://github.com/Ruzil-Jan/small_birdie-.git  ````
-
+git clone https://github.com/Ruzil-Jan/small_birdie-.git
+#### 2) Запустите QT Creator > Откройте "Файл" > " Открыть файл или Проект " ||  или раздел "Открыть"
+#### 3) Перейдите на директорию проекта и выберите файл "*.pro"
+#### 4) Соберите проект .В Qt Creator в левом нижнем углу выберите конфигурацию (Debug или Release)
+#### 5) Или нажмите Собрать Все
  
